@@ -7,4 +7,7 @@
 </div>
 
 # Program Stacks
-* Java
+* IDE(Eclipse)
+* SERVER(apache tomcat)
+* LANGUAGE(html5,javascript,jsp)
+* DB(mysql,mybatis)
